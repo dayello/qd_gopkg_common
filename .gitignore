@@ -1,0 +1,6 @@
+/.idea
+/vendor
+/.env
+!/.env.example
+/.vscode/
+__debug_bin
