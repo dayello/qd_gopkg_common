@@ -1,4 +1,4 @@
-module git.qufenqi.com/universe/crm/gopkg/common
+module github.com/dayello/qd_gopkg_common
 
 go 1.13
 

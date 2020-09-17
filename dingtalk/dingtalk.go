@@ -11,8 +11,8 @@ import (
 	"sync"
 	"time"
 
-	"git.qufenqi.com/universe/crm/gopkg/common/dingtalk/robot"
-	"git.qufenqi.com/universe/crm/gopkg/common/dingtalk/utils"
+	"github.com/dayello/qd_gopkg_common/dingtalk/robot"
+	"github.com/dayello/qd_gopkg_common/dingtalk/utils"
 	"github.com/go-resty/resty/v2"
 )
 
